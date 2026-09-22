@@ -18,7 +18,8 @@
 - 🛠️ Development tools included
 - ⚡ Lightweight desktop environment
 - 📱 Accessible from mobile or PC
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Neurobot1s/Mint?quickstart=1)
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&repo=Neurobot1s/Mint&ref=main)
 
 ## 🏗️ How It Works
 
