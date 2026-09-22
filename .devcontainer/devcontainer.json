@@ -10,6 +10,8 @@
     6080
   ],
 
+  "postStartCommand": "nohup /usr/local/bin/start-gui.sh > /tmp/gui.log 2>&1 &",
+
   "customizations": {
     "vscode": {
       "settings": {
