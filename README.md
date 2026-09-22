@@ -18,6 +18,7 @@
 - 🛠️ Development tools included
 - ⚡ Lightweight desktop environment
 - 📱 Accessible from mobile or PC
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/YOUR_USERNAME/YOUR_REPOSITORY?quickstart=1)
 
 ## 🏗️ How It Works
 
@@ -44,4 +45,3 @@ GitHub Codespace
        │
        ▼
    🌐 Browser
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/YOUR_USERNAME/YOUR_REPOSITORY?quickstart=1)
